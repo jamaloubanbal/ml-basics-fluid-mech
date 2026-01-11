@@ -1,0 +1,23 @@
+Types of ML Systems
+
+Supervised learning:
+
+    - Supervised learning models can make predictions after seeing lots of data with the correct answers and then discovering the connections between the elements in the data that produce the correct answers.
+    - These ML systems are "supervised" in the sense that a human gives the ML system data with the known correct results.
+    - The most common use cases for supervised learning are regression and classification (Binary or Multiclass):
+        - A regression model predicts a numeric value.
+        - Binary classification models output a value from a class that contains only two values.
+        - Multiclass classification models output a value from a class that contains more than two values.
+
+Unsupervised learning
+    - Unsupervised learning models make predictions by being given data that does not contain any correct answers.
+    - Commonly used unsupervised learning model employs a technique called clustering.
+        - Clustering differs from classification because the categories aren't defined by you. 
+    
+Reinforcement learning
+    - Reinforcement learning models make predictions by getting rewards or penalties based on actions performed within an environment.
+
+Generative AI
+    - Generative AI is a class of models that creates content from user input.
+    - Generative AI can take a variety of inputs and create a variety of outputs, like text, images, audio, and video.
+    - We can discuss generative models by their inputs and outputs, typically written as "type of input"-to-"type of output."
