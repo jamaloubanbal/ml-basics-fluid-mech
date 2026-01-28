@@ -54,13 +54,3 @@ pip install seaborn plotly
 ```
 
 - If you plan to run notebooks non-interactively in CI, prefer smaller sample sizes or add a `--ExecutePreprocessor.timeout=60` flag to `nbconvert` to avoid long-running cells.
-
-Contact / next steps
-
-If you want, I can:
-
-- execute the notebooks here and save the executed versions with outputs,
-- add a notebook that reads a sample CFD dataset (CSV/HDF5) and demonstrates preprocessing and visualization,
-- or convert one notebook into a standalone Python script that produces figures for documentation.
-
-Tell me which you prefer and I'll implement it.
