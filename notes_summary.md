@@ -11,8 +11,3 @@ Generated from `notes.txt` on 2026-01-11.
 - Generative AI: Models that produce content (text, images, audio, video) from inputs. Includes transformer-based LLMs, diffusion models, GANs, and VAEs; described by input→output types.
 
 Quick keywords: labeled data, regression, classification, clustering, rewards, policy, generative, diffusion, transformers.
-
-Suggested next steps:
-- Add short example code snippets for the most important concepts.
-- Turn each section into flashcards (question/answer pairs) for review.
-- Link to course references or papers for deeper study.
